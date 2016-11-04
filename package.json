@@ -1,0 +1,9 @@
+{
+  "name": "172-assignment",
+  "description": "Assignment 3",
+  "main": "split-match.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
